@@ -6,7 +6,9 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+#TEST 3
 #TEST FOR CHANGES
+#TEST FOR CHANGES 2
 team_name = 'MrSMITH-SUPER' # Only 10 chars displayed.
 strategy_name = 'The name the team gives to this strategy'
 strategy_description = 'How does this strategy decide?'
