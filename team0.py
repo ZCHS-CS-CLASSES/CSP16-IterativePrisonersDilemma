@@ -6,6 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
+#TEST 4
 #TEST 3
 #TEST FOR CHANGES
 #TEST FOR CHANGES 2
